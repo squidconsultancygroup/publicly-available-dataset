@@ -1,3 +1,5 @@
+```
+
 /departments/
 │
 ├── sales/
@@ -35,3 +37,4 @@
 │   └── README.md                  # Classification and taxonomy details
 │
 └── README.md                      # Top-level overview of /departments/
+```
